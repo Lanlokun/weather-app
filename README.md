@@ -10,7 +10,4 @@ flutter pub add http
 flutter pub add lottie
 flutter pub add geolocator
 
-
-## Run 
-
---- flutter run
+ flutter run
